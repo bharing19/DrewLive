@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"
-# Last forced update: 2025-08-16T23:44:25.352986Z
+# Last forced update: 2025-08-17T00:59:04.417792Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -13673,6 +13673,11 @@ https://pigscanflyyy-scraper.vercel.app/watch/channel/54a7a4af051a2835711c411600
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://pigscanflyyy-scraper.vercel.app/watch/channel/11d5a13f186ff61e554cfafe29f1333b.m3u8
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/67b779315691d.png" tvg-id="24.7.Dummy.us" group-title="Tims247",CARS Tour West at Colorado National Speedway (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTVLCOPT:http-referrer=https://kleanplay.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://pigscanflyyy-scraper.vercel.app/watch/channel/8648a0fb336656645530ce335d95b31e.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/cartoon.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Cartoon Network
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
@@ -13848,11 +13853,26 @@ https://pigscanflyyy-scraper.vercel.app/watch/channel/77a76af9eb9c6461b0b61c1e95
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://pigscanflyyy-scraper.vercel.app/watch/channel/1a1ee0efd5debe5049a0727a443b682b.m3u8
-#EXTINF:-1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/04/09/8-16-25_SC-1744206251915.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Jackson Motorplex (Live Stream)
+#EXTINF:-1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/04/09/8-16-25_SC-1744206251915.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Jackson Motorplex (FHD)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://pigscanflyyy-scraper.vercel.app/watch/channel/7ee2cee94488b22c5cbe3cb76daebd54.m3u8
+#EXTINF:-1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/04/09/8-16-25_SC-1744206251915.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Jackson Motorplex (SD)
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTVLCOPT:http-referrer=https://kleanplay.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://pigscanflyyy-scraper.vercel.app/watch/channel/a505793e71ad9e28582ceeb8c715d79b.m3u8
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/6604425b83ac5.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Kubota High Limit Racing at Placerville Speedway (FHD)
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTVLCOPT:http-referrer=https://kleanplay.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://pigscanflyyy-scraper.vercel.app/watch/channel/62f48bb046fb9320b9a0507a091c16d6.m3u8
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/6604425b83ac5.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Kubota High Limit Racing at Placerville Speedway (SD)
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTVLCOPT:http-referrer=https://kleanplay.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://pigscanflyyy-scraper.vercel.app/watch/channel/47b0f639628b051605c5ff4f4dcf3f98.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/laligatv.png" tvg-id="24.7.Dummy.us" group-title="Tims247",LaLiga TV
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
@@ -13863,16 +13883,26 @@ https://pigscanflyyy-scraper.vercel.app/watch/channel/pajip6maru1rlcoz1qizebitoc
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://pigscanflyyy-scraper.vercel.app/watch/channel/6fad2dc57f9f733c48f8c35ba8aeb119.m3u8
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/677da647695a9.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Lucas Oil Topless 100 at Batesville Motor Speedway (Live Stream)
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/677da647695a9.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Lucas Oil Topless 100 at Batesville Motor Speedway (HD)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://pigscanflyyy-scraper.vercel.app/watch/channel/2582ee8b8178ac6cbce97ac145ba2fbd.m3u8
-#EXTINF:-1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/04/15/8-16-25_LM-1744731956577.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Maquoketa Speedway (Live Stream)
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/677da647695a9.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Lucas Oil Topless 100 at Batesville Motor Speedway (SD)
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTVLCOPT:http-referrer=https://kleanplay.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://pigscanflyyy-scraper.vercel.app/watch/channel/bf306ba59dae6f2bff1e0d796af0b5c5.m3u8
+#EXTINF:-1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/04/15/8-16-25_LM-1744731956577.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Maquoketa Speedway (FHD)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://pigscanflyyy-scraper.vercel.app/watch/channel/6470a458245534af97cd5cafac7dbaa0.m3u8
+#EXTINF:-1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/04/15/8-16-25_LM-1744731956577.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Maquoketa Speedway (SD)
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTVLCOPT:http-referrer=https://kleanplay.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://pigscanflyyy-scraper.vercel.app/watch/channel/42f09658632ad3c1d5a4d529e948ae11.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/marquee.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Marquee Sports Network
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
@@ -13903,6 +13933,11 @@ https://pigscanflyyy-scraper.vercel.app/watch/channel/5d4af6aa99e9ee7912136ea5be
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://pigscanflyyy-scraper.vercel.app/watch/channel/ebcdba09e8a64f24e07c4d9b67267753.m3u8
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/60b9646c2b76e.png" tvg-id="24.7.Dummy.us" group-title="Tims247",NASCAR Weekly Racing at Le RPM Speedway (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTVLCOPT:http-referrer=https://kleanplay.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://pigscanflyyy-scraper.vercel.app/watch/channel/6171a0967969580965c31de908600280.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/nba.png" tvg-id="24.7.Dummy.us" group-title="Tims247",NBA TV
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
@@ -14238,6 +14273,11 @@ https://pigscanflyyy-scraper.vercel.app/watch/channel/prObIniBoc7ltizEGEvUSpLsta
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://pigscanflyyy-scraper.vercel.app/watch/channel/d32d1e89796bc0ee8bf1a216bb3fa2ae.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.gg/sJ29IRy-1b08594b2069fed17ff5c2ed458d324e.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Whynot Motorsports Park (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTVLCOPT:http-referrer=https://kleanplay.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://pigscanflyyy-scraper.vercel.app/watch/channel/0fb6d447f1af527625038bf41efa59be.m3u8
 #EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/willow.png" tvg-id="24.7.Dummy.us" group-title="Tims247",Willow Cricket
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
