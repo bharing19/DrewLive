@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"
-# Last forced update: 2025-08-17T13:34:38.563892Z
+# Last forced update: 2025-08-17T13:46:31.216390Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -13816,6 +13816,11 @@ https://pigscanflyyy-scraper.vercel.app/watch/channel/pajip6maru1rlcoz1qizebitoc
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://pigscanflyyy-scraper.vercel.app/watch/channel/6fad2dc57f9f733c48f8c35ba8aeb119.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/tu1ztb1750276759.jpg" tvg-id="24.7.Dummy.us" group-title="Tims247",Lokomotive Leipzig vs Schalke 04 (Live Stream)
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTVLCOPT:http-referrer=https://kleanplay.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://pigscanflyyy-scraper.vercel.app/watch/channel/7b60b3fa21ded58ed634890942a2bdff.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/5xm6d01750320127.jpg" tvg-id="24.7.Dummy.us" group-title="Tims247",Manchester United vs Arsenal (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
