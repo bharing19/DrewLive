@@ -48,12 +48,12 @@ https://gg.poocloud.in/newyorkgiants/index.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
-https://gg.poocloud.in/nationals/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/nationals/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4cfc191ae205a2ed9d2245c7a0e12e35-thumbnail.jpg" group-title="PPVLand - MLB",Minnesota Twins vs. Philadelphia Phillies
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
-https://gg.poocloud.in/phillies/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/phillies/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e939afa0adb5b9ba2efd45b91ef879f8-thumbnail.jpg" group-title="PPVLand - MLB",Baltimore Orioles vs. New York Yankees
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
@@ -83,17 +83,27 @@ https://gg.poocloud.in/guardians/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
-https://gg.poocloud.in/braves/index.m3u8
+https://gg.poocloud.in/braves/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b020697aa5af612b87d4081ce991fd62-thumbnail.jpg" group-title="PPVLand - MLB",Cincinnati Reds vs. Milwaukee Brewers
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://gg.poocloud.in/brewers/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6fe7041ef3bb0365873eaa36363cbea8-thumbnail.jpg" group-title="PPVLand - MLB",Houston Astros vs. Los Angeles Angels
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://gg.poocloud.in/angels/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/20c7d4c880b56278ac660d25bc206a0f-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Aces at Fever (Game 3)
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
-https://gg.poocloud.in/wnba_fever/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/wnba_fever/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3cde5481552b2a027bf2a6657cbcddc3-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Lynx at Mercury (Game 3)
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://gg.poocloud.in/wnba_mercury/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5d19674240f420a5328785caae9523ec-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Brentford vs. Manchester United
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
@@ -333,19 +343,24 @@ https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
-https://gg.poocloud.in/southpark/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/southpark/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/38b74f3e98c416884d529f2b2e59b6e4-thumbnail.jpg" group-title="PPVLand - Live Now",Carolina Hurricanes vs. Tampa Bay Lightning
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
-https://gg.poocloud.in/tampabaylightning/index.m3u8?md5=vA6Uv6MHFRtfPYeEstPT3g&expires=1758940200&net=MTcyLjE4NC4yMTEuMTEy
+https://gg.poocloud.in/tampabaylightning/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/aa8be93ef318f775e0ba67e7ea4b8b74-thumbnail.jpg" group-title="PPVLand - Live Now",Detroit Red Wings vs. Pittsburgh Penguins
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
-https://gg.poocloud.in/pittsburghpenguins/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/pittsburghpenguins/index.m3u8?md5=vA6Uv6MHFRtfPYeEstPT3g&expires=1758940200&net=MTcyLjE3NC4xNjYuMTky
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/bc42be7030f19a0428d27ffac49d673a-thumbnail.jpg" group-title="PPVLand - Live Now",New Jersey Devils vs. New York Islanders
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
-https://gg.poocloud.in/newyorkislanders/index.m3u8?md5=vA6Uv6MHFRtfPYeEstPT3g&expires=1758940200&net=MTcyLjE4NC4yMTEuMTEy
+https://gg.poocloud.in/newyorkislanders/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5f96067dde300e232690e0f725a88442-thumbnail.jpg" group-title="PPVLand - Live Now",Winnipeg Jets vs. Edmonton Oilers
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=https://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+https://gg.poocloud.in/edmontonoilers/index.m3u8?md5=sn6z5KRG8E0AZQs3oVepxw&expires=1758947400&net=MTcyLjE3NC4xNjYuMTky
